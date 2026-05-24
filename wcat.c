@@ -1,8 +1,10 @@
-/*author: Israel Alvarez
+/*
+author: Israel Alvarez
 Custom cat program
 Constraints: fopen(), fgets(), and fclose()
 Can take multiple arguments
-works on very simple text files, as far as i know/(have tried)*/
+works on very simple text files, as far as i know/(have tried)
+*/
 
 #include <stdio.h>
 #include <stdlib.h>
