@@ -1,4 +1,5 @@
-/*Custom cat program
+/*author: Israel Alvarez
+Custom cat program
 Constraints: fopen(), fgets(), and fclose()
 Can take multiple arguments
 works on very simple text files, as far as i know/(have tried) */
