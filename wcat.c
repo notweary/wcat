@@ -47,9 +47,6 @@ int main(int argc, char** argv){
 	    fclose(fp);
 	    exit(1);
 	}
-
-	//for condition used in do-while
-	long pos;
 	
 	//dynamic array 
 	char *buffer = malloc(size+1);
